@@ -1,10 +1,10 @@
 # Best City in the US for Coffee Lovers
 
-*Data Science Capstone - IBM Data Science Professional Certificate on Coursera*
+*Applied Data Science Capstone - IBM Data Science Professional Certificate by IBM on Coursera*
+
+
 
 ## Introduction 
-
-Introduction
 
 Coffee is one of the most consumed beverages in the world. One can say that, even on vacations, you cannot survive without it. Therefore, I took this thought in practice and though:
 "What if I were to go to the USA, for travel, where should I go to drink coffee from as many coffee stores as possible, in proximity to my hotel."
@@ -14,6 +14,8 @@ So I want to go to a place with a high density of Coffee Shops around me.
 The problem we aim to solve is that different cities have different layouts and citizens with different preferences, which may favor or inhibit the proximity of a coffee shop to another.
 
 We must, therefore, analyze the Coffee Shops' locations in some of the major US cities and find the best place for our tourists so that they can have a good coffee.
+
+
 
 ## Data section 
 
