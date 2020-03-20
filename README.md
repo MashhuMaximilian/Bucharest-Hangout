@@ -1,10 +1,10 @@
-# Where to Go When You Want to drink a coffee in US ? 
+# Best City in the US for Coffee Lovers
 
 *Data Science Capstone - IBM Data Science Professional Certificate on Coursera*
 
 ## Introduction 
 
-Let's say you have never been to the US and you want to visit as many coffee shops near the place you stay while you are there. So you want to go to a place with a high density of Coffee Shops around you. The problem we aim to solve is to analyze the Coffee Shops' locations in some of the major US cities and find the best place for our tourist so that he can have a good pizza-ourism. 
+Let's say you have never been to the US and you want to visit as many coffee shops near the place you stay while you are there. So you want to go to a place with a high density of Coffee Shops around you. The problem we aim to solve is to analyze the Coffee Shops' locations in some of the major US cities and find the best place for our tourist so that he can have a good coffee. 
 
 ## Data section 
 
